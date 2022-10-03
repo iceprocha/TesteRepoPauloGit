@@ -11,5 +11,9 @@ Paris German
 Vasco
 CRB
 Avai
+<<<<<<< HEAD
 Barcelona
 Real Madridgit add
+=======
+Real Madrid
+>>>>>>> f017b7f (Adição Real Madrid corretamente)
